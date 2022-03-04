@@ -1,0 +1,9 @@
+{
+    "name":"Cryptoreal",
+    "description":"Esta extension te permite ver el precio de varias criptomonedas frente al Dolar en tiempo real.",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup":"popup.html"
+    }
+}
